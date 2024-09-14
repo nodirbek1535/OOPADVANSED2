@@ -1,0 +1,14 @@
+D:\VSCode (mohirdev)\OOPADVANSED2\obj\Debug\net8.0\OOPADVANSED2.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCode (mohirdev)\OOPADVANSED2\obj\Debug\net8.0\OOPADVANSED2.AssemblyInfoInputs.cache
+D:\VSCode (mohirdev)\OOPADVANSED2\obj\Debug\net8.0\OOPADVANSED2.AssemblyInfo.cs
+D:\VSCode (mohirdev)\OOPADVANSED2\obj\Debug\net8.0\OOPADVANSED2.csproj.CoreCompileInputs.cache
+D:\VSCode (mohirdev)\OOPADVANSED2\bin\Debug\net8.0\OOPADVANSED2.exe
+D:\VSCode (mohirdev)\OOPADVANSED2\bin\Debug\net8.0\OOPADVANSED2.deps.json
+D:\VSCode (mohirdev)\OOPADVANSED2\bin\Debug\net8.0\OOPADVANSED2.runtimeconfig.json
+D:\VSCode (mohirdev)\OOPADVANSED2\bin\Debug\net8.0\OOPADVANSED2.dll
+D:\VSCode (mohirdev)\OOPADVANSED2\bin\Debug\net8.0\OOPADVANSED2.pdb
+D:\VSCode (mohirdev)\OOPADVANSED2\obj\Debug\net8.0\OOPADVANSED2.dll
+D:\VSCode (mohirdev)\OOPADVANSED2\obj\Debug\net8.0\refint\OOPADVANSED2.dll
+D:\VSCode (mohirdev)\OOPADVANSED2\obj\Debug\net8.0\OOPADVANSED2.pdb
+D:\VSCode (mohirdev)\OOPADVANSED2\obj\Debug\net8.0\OOPADVANSED2.genruntimeconfig.cache
+D:\VSCode (mohirdev)\OOPADVANSED2\obj\Debug\net8.0\ref\OOPADVANSED2.dll
